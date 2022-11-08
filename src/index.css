@@ -1,0 +1,14 @@
+body {
+  font-family: "Poppins", Arial, sans-serif;
+  font-size: 16px;
+  
+  line-height: 1.8;
+  font-weight: normal;    
+  background: hwb(0 60% 40% / 0.327);
+  color: lighten(#000, 40%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
