@@ -10,8 +10,10 @@ We have used animations and designing using SCSS, also used react js to develope
 
 #### Here is a working live demo :   https://contact-abhinav.netlify.app/
 
+
 ## LIVE-DEMO
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/48747218/200759823-ce210eba-cdcc-4e75-87cc-21866902d206.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/48747218/200800897-ef99c270-2eab-4311-a7bf-6976163a4f79.gif)
+
 
 
 
